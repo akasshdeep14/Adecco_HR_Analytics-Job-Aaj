@@ -14,3 +14,5 @@ The Deep Dive: An analysis of demographic and job-related data found that limite
 The Fix: Using findings from calculated fields and satisfaction metrics, the project proposes revamped career development and compensation policies.
 
 The Result: A more engaged, motivated, and loyal sales team with significantly lower turnover costs.
+<img width="758" height="439" alt="05" src="https://github.com/user-attachments/assets/75ab07f8-8cf1-4f2d-b9b4-3fcfd1a53d3f" />
+
