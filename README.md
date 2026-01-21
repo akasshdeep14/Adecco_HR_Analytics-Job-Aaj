@@ -1,18 +1,3 @@
-1. The Executive Version (High-Level & Results-Oriented)
-Focus: Business impact and strategic solutions. Adecco India is addressing high turnover among junior sales staff through a data-driven HR initiative. By analyzing employee metrics in Excel—ranging from compensation to work-life balance—the project identifies the "why" behind the departures. The study reveals that factors like heavy travel and low job involvement are key drivers of attrition. The final goal is to implement targeted retention strategies that stabilize the workforce and improve the company’s bottom line.
+### Adecco HR Analytics
 
-2. The Technical Version (Process & Analytical Methods)
-Focus: Data tools and specific variables used. This HR analytics project utilizes Excel-based techniques (PivotTables, Correlation Analysis, and Scatter Plots) to diagnose attrition patterns. The analysis examines the relationship between employee tenure and variables such as stock options, training frequency, and performance ratings. By converting qualitative satisfaction scores into quantitative insights, the study pinpoints specific correlations between overtime and turnover, providing a roadmap for predictive workforce modeling.
-
-3. The "Problem-Solution" Version (Narrative-Based)
-Focus: The journey from the issue to the resolution.
-
-The Challenge: Junior sales employees are leaving Adecco India at an increasing rate.
-
-The Deep Dive: An analysis of demographic and job-related data found that limited growth opportunities and poor work-life balance were the primary culprits.
-
-The Fix: Using findings from calculated fields and satisfaction metrics, the project proposes revamped career development and compensation policies.
-
-The Result: A more engaged, motivated, and loyal sales team with significantly lower turnover costs.
-<img width="758" height="439" alt="05" src="https://github.com/user-attachments/assets/75ab07f8-8cf1-4f2d-b9b4-3fcfd1a53d3f" />
-
+Adecco India, a mid-sized technology firm, has recently experienced increasing employee attrition, particularly among junior-level employees in the sales department. The objective of this project is to conduct a comprehensive HR analytics study to identify the key factors contributing to employee turnover and to generate data-driven insights that support effective retention strategies.Using employee-level data encompassing demographic characteristics, job-related attributes, compensation details, and satisfaction metrics, the project applies basic and intermediate analytical techniques using Excel. Core analyses include calculating the overall attrition rate, identifying departments with the highest turnover, assessing satisfaction levels across roles, and examining demographic and compensation patterns among employees who have left the organization.The study further explores intermediate-level insights by analyzing factors correlated with attrition, including job involvement, marital status, stock options, training opportunities, and business travel frequency. Relationships between job satisfaction, performance ratings, work-life balance, employee tenure, and overtime patterns are also evaluated to understand their impact on retention.Through the use of PivotTables, scatter plots, correlation analysis, and calculated fields, the findings reveal critical attrition drivers such as low job involvement, limited career growth opportunities, frequent business travel, low satisfaction levels, and excessive overtime. These insights help identify department-specific challenges and employee segments at higher risk of leaving.Overall, this HR analytics project equips Adecco India with actionable insights to develop targeted retention strategies, enhance employee engagement, optimize career development initiatives, strengthen compensation and benefits policies, and ultimately reduce employee turnover. By leveraging data-driven decision-making, the organization can build a more stable, motivated, and high-performing workforce.
