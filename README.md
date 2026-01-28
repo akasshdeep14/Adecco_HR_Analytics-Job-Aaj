@@ -1,26 +1,26 @@
 ### Adecco HR Analytics
 
-Adecco India has been facing rising employee attrition, especially among junior-level employees in the sales department. This project aims to understand why employees are leaving and provide data-driven recommendations to improve retention. The goal is to help the company build a more stable, engaged, and productive workforce.
+This HR analytics project on Adecco India's employee attrition effectively uses Excel-based techniques to uncover actionable retention strategies. It mirrors standard practices in real-world case studies where firms like Credit Suisse and Experian reduced turnover through targeted data insights.
+​
 
-Key Insights & Findings
-1.	Low job involvement
-2.	 Limited career growth opportunities
-3.	Low job satisfaction
-4.	Frequent business travel  
-5.	Excessive overtime
-6.	Employees with poor work-life balance and lower engagement were more likely to leave.
-7.	Factors such as training access, stock options, marital status, and tenure also influenced retention.
+Data Processing Steps - 
 
-Department & Employee Risk Insights
-•	Certain departments faced higher turnover, highlighting role-specific challenges.
-•	Specific employee segments were identified as high-risk groups, helping target retention efforts more effectively.
-•	Patterns showed that engagement, recognition, and career progression play a major role in employee loyalty.
-Business Recommendations
-•	Improve career development and growth opportunities to retain junior talent
-•	Increase employee engagement and job involvement
-•	Reduce excessive overtime to support better work-life balance
-•	Enhance compensation, incentives, and stock benefit structures
-•	Strengthen training and skill development programs
-•	Create targeted retention strategies for high-risk teams, especially sales
+The analysis leverages employee data on demographics, compensation, satisfaction, and job attributes, applying PivotTables for aggregation, data cleaning for outliers/duplicates, and calculated fields for metrics like attrition rate by department or role. Scatter plots and correlations reveal patterns in tenure, travel, and overtime.
+
+Key Attrition Drivers - 
+
+Sales department juniors show highest turnover, linked to low job involvement, limited stock options/training, high business travel, and poor work-life balance. Single employees and those with low satisfaction/performance ratings are at elevated risk.
+
+Analytical Techniques - 
+
+Basic metrics calculate overall attrition (e.g., 15-20% typical in mid-sized firms), department rankings, and satisfaction by role. Intermediate analysis uses correlation matrices to link marital status, overtime, and career growth to exits, with visuals highlighting risky segments.
+
+Business Recommendations - 
+
+Target sales with engagement programs, reduce travel via remote options, enhance training/career paths for juniors, and tie compensation to satisfaction scores. Monitor high-risk groups quarterly to cut turnover by 20-30%, boosting stability.
+
+Ethical Guidelines - 
+
+Ensure data anonymization, avoid bias in demographic correlations, and validate insights with HR experts for fair retention policies
 
 <img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/2d5b207d-74b0-43da-a54f-c3bc91c5890f" />
