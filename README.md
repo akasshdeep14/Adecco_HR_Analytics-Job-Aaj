@@ -2,7 +2,7 @@
 
 As the analyst for this project, I transformed raw dataset information into interactive visual dashboards to uncover key trends and performance metrics. Below is a summary of the work I performed and the tools I utilized:
 
-$$ What I Did
+## What I Did
 
 Market Segmentation Analysis: I categorized apps by their monetization strategy, identifying that a vast majority (approximately 92.61%) are free, while 7.38% are paid.
 
